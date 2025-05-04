@@ -1,12 +1,12 @@
 {
-  "name": "sb1",
+  "name": "sb2",
   "type": "javascript",
   "account_id": "38cca4a936033c10ed5d2e402c26a7de",
   "workers_dev": true,
   "compatibility_flags": [],
   "env": {
     "production": {
-      "name": "sb1",
+      "name": "sb2",
       "route": "sneakers2buy.com/*",
       "zone_id": "9d1519fd2ae0b51852bb88bcd76981db",
       "vars": {
