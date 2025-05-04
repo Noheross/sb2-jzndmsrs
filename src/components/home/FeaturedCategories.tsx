@@ -5,43 +5,43 @@ const categories = [
   {
     id: 'shoes',
     name: 'Shoes',
-    image: 'https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg',
+    image: '/images/shoes.jpeg',
     path: '/category/shoes'
   },
   {
     id: 'tshirt',
     name: 'T-Shirts',
-    image: 'https://images.pexels.com/photos/5698851/pexels-photo-5698851.jpeg',
+    image: '/images/tshirt.jpeg',
     path: '/category/t_shirt'
   },
   {
     id: 'pants',
     name: 'Pants & Shorts',
-    image: 'https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg',
+    image: '/images/pants.jpeg',
     path: '/category/pants'
   },
   {
     id: 'hoodies',
     name: 'Hoodies & Sweaters',
-    image: 'https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg',
+    image: '/images/hoodies.jpeg',
     path: '/category/hoodies'
   },
   {
     id: 'jackets',
     name: 'Jackets',
-    image: 'https://images.pexels.com/photos/6770028/pexels-photo-6770028.jpeg',
+    image: '/images/jackets.jpeg',
     path: '/category/jackets'
   },
   {
     id: 'accessories',
     name: 'Accessories',
-    image: 'https://images.pexels.com/photos/2079173/pexels-photo-2079173.jpeg',
+    image: '/images/accessories.jpeg',
     path: '/category/accessories'
   },
   {
     id: 'others',
     name: 'Others',
-    image: 'https://images.pexels.com/photos/2905238/pexels-photo-2905238.jpeg',
+    image: '/images/others.jpeg',
     path: '/category/others'
   }
 ];
