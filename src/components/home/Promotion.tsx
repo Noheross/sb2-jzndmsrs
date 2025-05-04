@@ -10,7 +10,7 @@ const Promotion: React.FC = () => {
           <div 
             className="absolute inset-0 bg-cover bg-center"
             style={{ 
-              backgroundImage: "url('https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg')",
+              backgroundImage: "url('images/main.jpeg')",
               filter: "brightness(0.7)"
             }}
           />

@@ -5,43 +5,43 @@ const categories = [
   {
     id: 'shoes',
     name: 'Shoes',
-    image: '/images/shoes.jpeg',
+    image: 'images/shoes.jpeg',
     path: '/category/shoes'
   },
   {
     id: 'tshirt',
     name: 'T-Shirts',
-    image: '/images/tshirt.jpeg',
+    image: 'images/tshirt.jpeg',
     path: '/category/t_shirt'
   },
   {
     id: 'pants',
     name: 'Pants & Shorts',
-    image: '/images/pants.jpeg',
+    image: 'images/pants.jpeg',
     path: '/category/pants'
   },
   {
     id: 'hoodies',
     name: 'Hoodies & Sweaters',
-    image: '/images/hoodies.jpeg',
+    image: 'images/hoodies.jpeg',
     path: '/category/hoodies'
   },
   {
     id: 'jackets',
     name: 'Jackets',
-    image: '/images/jackets.jpeg',
+    image: 'images/jackets.jpeg',
     path: '/category/jackets'
   },
   {
     id: 'accessories',
     name: 'Accessories',
-    image: '/images/accessories.jpeg',
+    image: 'images/accessories.jpeg',
     path: '/category/accessories'
   },
   {
     id: 'others',
     name: 'Others',
-    image: '/images/others.jpeg',
+    image: 'images/others.jpeg',
     path: '/category/others'
   }
 ];
